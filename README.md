@@ -11,12 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## Code Goals:
-*Page headers with an image
-*Cover page with image and client name
-*Water mark image in background of page
-*Generate tables
-*Colouring cell backround
-*[Once above can be done] interface with Nessus scan file and populate table with vulnerabilitites of the user's choice
+* Page headers with an image
+* Cover page with image and client name
+* Water mark image in background of page
+* Generate tables
+* Colouring cell backround
+* [Once above can be done] interface with Nessus scan file and populate table with vulnerabilitites of the user's choice
 
 
 
