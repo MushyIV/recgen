@@ -1,0 +1,33 @@
+s = """:tabletags-orange.bodydata: <td style="background-color:darkorange;">|</td>
+:tabledef-default.orange-style: tags="orange"
+
+:tabletags-blue.bodydata: <td style="background-color:royalblue;">|</td>
+:tabledef-default.blue-style: tags="blue"
+
+
+[cols="s,m,m",width="50%"]
+|==========================================
+o|Vulnerability 2+s|MS16-009: Cumulative Security Update for Internet Explorer (3134220)
+o|Hosts |10.11.12.14 |129.43.12.4
+o|Remediations 2+|Microsoft has released a set of patches for Windows Vista, 2008, 7, 2008 R2, 8, RT, 2012, 8.1, RT 8.1, 2012 R2, and 10. + https://technet.microsoft.com/library/security/MS16-001
+o|Typical Impact 2+|No impact
+|==========================================
+
+[cols="s,m,m",width="50%"]
+|==========================================
+b|Vulnerability 2+s|MS16-009: Cumulative Security Update for Internet Explorer (3134220)
+b|Hosts |10.11.12.14 |129.43.12.4
+b|Remediations 2+|Microsoft has released a set of patches for Windows Vista, 2008, 7, 2008 R2, 8, RT, 2012, 8.1, RT 8.1, 2012 R2, and 10. + https://technet.microsoft.com/library/security/MS16-001
+b|Typical Impact 2+|No impact
+|==========================================
+
+[cols="s,m,m",width="50%"]
+|==========================================
+o|Vulnerability 2+s|MS16-009: Cumulative Security Update for Internet Explorer (3134220)
+o|Hosts |10.11.12.14 |129.43.12.4
+o|Remediations 2+|Microsoft has released a set of patches for Windows Vista, 2008, 7, 2008 R2, 8, RT, 2012, 8.1, RT 8.1, 2012 R2, and 10. + https://technet.microsoft.com/library/security/MS16-001
+o|Typical Impact 2+|No impact
+|=========================================="""
+
+f = open("test2.txt","w")
+f.write(s)
